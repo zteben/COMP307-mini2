@@ -2,4 +2,4 @@
 
 Assignment for the Principles of Web Development course at McGill University. Only pure HTML was allowed.
 
-<img src="mini2.jpg" width="800">
+<img src="mini2.JPG" width="800">
